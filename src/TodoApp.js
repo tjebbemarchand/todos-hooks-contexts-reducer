@@ -20,7 +20,7 @@ function TodoApp() {
         >
             <AppBar color="primary" position="static" style={{ height: "64px" }}>
                 <Toolbar>
-                    <Typography color="inherit">Todos with Hooks</Typography>
+                    <Typography color="inherit">React Todo App</Typography>
                 </Toolbar>
             </AppBar>
             <Grid container justify="center" style={{ marginTop: "1rem" }}>
