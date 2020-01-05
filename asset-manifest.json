@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todos-hooks-contexts-reducer/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/todos-hooks-contexts-reducer/static/js/main.73ddd72c.chunk.js",
+    "main.js.map": "/todos-hooks-contexts-reducer/static/js/main.73ddd72c.chunk.js.map",
+    "runtime-main.js": "/todos-hooks-contexts-reducer/static/js/runtime-main.634a5428.js",
+    "runtime-main.js.map": "/todos-hooks-contexts-reducer/static/js/runtime-main.634a5428.js.map",
+    "static/js/2.1d9fe81c.chunk.js": "/todos-hooks-contexts-reducer/static/js/2.1d9fe81c.chunk.js",
+    "static/js/2.1d9fe81c.chunk.js.map": "/todos-hooks-contexts-reducer/static/js/2.1d9fe81c.chunk.js.map",
+    "index.html": "/todos-hooks-contexts-reducer/index.html",
+    "precache-manifest.a7293a02a591280b8fe04ed27bb7df1a.js": "/todos-hooks-contexts-reducer/precache-manifest.a7293a02a591280b8fe04ed27bb7df1a.js",
+    "service-worker.js": "/todos-hooks-contexts-reducer/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/todos-hooks-contexts-reducer/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1d9fe81c.chunk.js.LICENSE": "/todos-hooks-contexts-reducer/static/js/2.1d9fe81c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.634a5428.js",
+    "static/js/2.1d9fe81c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.73ddd72c.chunk.js"
+  ]
+}
