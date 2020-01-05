@@ -2,7 +2,7 @@
 
 A simple todo app with the use of Hooks, Contexts and Reducers.
 
-[Link to app]()
+[Link to app](https://tjebbemarchand.github.io/todos-hooks-contexts-reducer/)
 
 ## Features
 
@@ -10,5 +10,6 @@ A simple todo app with the use of Hooks, Contexts and Reducers.
 -   Delete todo
 -   Complete todo
 -   Edit todo
+-   Save todos to Local Storage
 
 ![Todo app](./docs/todo-app.jpg)
